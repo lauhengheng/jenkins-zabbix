@@ -1,4 +1,4 @@
- （tips：uic-works库中是更为详细的作品集展示，请移步至uic-works库，thx~）
+ （tips：uic-works库中是本人更为详细的作品集展示和证书及工作证明资料，请移步至uic-works库，thx~）
  这个项目是本人做运维工程师工作期间部署的zabbix服务器监控平台和jenkins ci/cd自动化部署工具的搭建文档，具体如下：
   搭建时间：2020.6
   
